@@ -1,0 +1,4 @@
+Bundle-Activator: com.proliferay.SampleActivator
+Bundle-Name: sample-activator
+Bundle-SymbolicName: com.proliferay
+Bundle-Version: 1.0.0
